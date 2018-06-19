@@ -52,6 +52,16 @@
         android:textColor="#ecf0f1"
         android:textSize="15sp"/>
 
+    <Button
+        android:id="@+id/reset_button"
+        android:layout_width="123dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/buttonTop"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/holo_purple"
+        android:text="Restart Game"
+        android:textColor="#FFFFFF"
+        android:visibility="visible" />
 
 
 </RelativeLayout>
